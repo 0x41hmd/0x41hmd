@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.svg" alt="Hi, I'm Ahmed. Computer Science student" width="800" />
+  <img src="header.svg" alt="Hi, I'm Ahmed Yaqout. Computer Science student" width="800" />
 </p>
 
 ---
