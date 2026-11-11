@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="header.svg" alt="Hi, I'm Ahmed Yaqout. Computer Science student" width="800" />
+  <img src="header.svg" alt="Hi, I'm Ahmed. Computer Science student" width="800" />
 </p>
 
 ---
 
-I'm a 21-year-old Computer Science student at Alexandria University. I'm interested in cybersecurity, malware analysis and networking, and I'm working toward reverse engineering and Windows internals. I used to be on Team Blue at an ECERT.
+I'm a 21 years-old Computer Science student at Alexandria University. I'm interested in cybersecurity, malware analysis and networking, and I'm working toward reverse engineering and Windows internals. I used to be on Team Blue at an ECERT.
 
 ## Skills
 
